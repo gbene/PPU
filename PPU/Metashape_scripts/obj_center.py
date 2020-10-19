@@ -5,7 +5,7 @@ Saturday 19 September 2020 11:11:53
 @author: gabri
 
 Use:
-The script is used to find and display the geometric center of the model.
+This script can be used to find and display the geometric center of the model.
 
 Summary:
 The geometric center is calculated from an arithmetic mean operation

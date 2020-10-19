@@ -4,11 +4,12 @@ Tuesday 1 September, 2020, 16:49:19
 @author: gabri
 
 Use:
-The script is used to analize the metashape "quality" parameter and disable the
-images that are below a certain quality limit set by the user.
+This script can be used to analize the metashape "quality" parameter
+and disable the images that are below a certain quality
+limit set by the user.
 
 Summary:
-The scripts runs the metashape funciton analyzePhotos to estimate the quality and
+This script runs the metashape funciton analyzePhotos to estimate the quality and
 then disables the cameras that have the quality below the threshold.
 """
 

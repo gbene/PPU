@@ -1,8 +1,8 @@
 # Python Photogrammetric Utilities
 
-PPU is a collection of python scripts that can help in the photogrammetric process. It contains a series of scripts that can be used directly with **Agisoft Metashape** and a python executable that can help in the process of converting images from raw to other formats, creating csv files that can be used to scale the object based on calculated camera position, masking and exif data copying. The executable is completely standalone and cross-platform. In this way it can be used even if the machine doesn't have Python insalled and works on every platform.
-
-PPU executable is in PPU-main>PPU>PPU_v1 folder
+PPU is a collection of python scripts that can help in the photogrammetric process. It contains a series of scripts that can be used directly with **Agisoft Metashape** and a python executable that can help in the process of converting images from raw to other formats, creating csv files that can be used to scale the object based on calculated camera position, masking and exif data copying. The executable for now is completely standalone only on Windows machines. In this way it can be used even if the machine doesn't have Python insalled. The PPU executable is in PPU-main>PPU>PPU_v1 folder. 
+If you want to use the program on linux and Mac machines you need to have installed python 3.7. You can retrieve the source files in the PPU>source folder. All the packages needed are inside the requirements.txt file and you can install them globally or on a venv with 
+`pip install -r /dir/of/requirements.txt`
 
 ## PPU executable
 

@@ -1,1 +1,1 @@
-Dark;Blue;Amber;
+Light;LightGreen;Orange;
